@@ -1,0 +1,151 @@
+{
+  "CORE_PREFIX":{
+    "ru": "§d§lNekoCore §8| §f",
+    "en": "§d§lNekoCore §8| §f",
+    "ua": "§d§lNekoCore §8| §f"
+  },
+  "CORE_DOMAIN_STATS": {
+    "ru": [
+      "$CORE_PREFIX$Статистика §d%s §fза §e%s §f-> §e%s§f:",
+      "§d     Всего входов за это время: §5%s",
+      "§d     Уникальных входов за это время: §5%s"
+    ]
+  },
+  "CONNECTING": {
+    "ru": "$SERVER_PREFIX$Подключение..."
+  },
+  "ALREADY_CONNECTED": {
+    "ru": "$SERVER_PREFIX$Ты уже находишься на сервере §d%s"
+  },
+  "CORE_HELP": {
+    "ru": [
+      "$CORE_PREFIX$Текущая версия: §a%s",
+      "",
+      "§d     /core stats §8- §fстатистика Core",
+      "§d     /core stop §8- §fостановить Core",
+      "§d     /core server <сервер(с номером)> §8- §fинформация о сервере",
+      "§d     /core restart <* / сервер / @префикс> §8- §fотправить на перезапуск все сервера/сервер",
+      "§d     /core gc §8- §fвыполнить GC",
+      "§d     /core motdreload §8- §fперезагрузка MOTD",
+      "§d     /core langreload §8- §fперезагрузка локализации",
+      "§d     /core command <сервер> <команда> §8- §fотправить команду на сервер",
+      ""
+    ]
+  },
+  "CORE_STATS": {
+    "ru": [
+      "$CORE_PREFIX$Текущая версия: §a%s",
+      "§f[СЕРВЕРА]:",
+      "§d     §7Bungee: §d%s",
+      "§d     §7Bukkit: §d%s",
+      "§f[ИГРОКИ]:",
+      "§d     §7Подключено: §d%s",
+      "§d     §7Авторизированно: §d%s",
+      "§d     §7Забанено: §d%s",
+      "§f[МОДУЛИ]: ",
+      "§d     §7Всего подключено: §d%s",
+      "§d     §7Активно: §d%s",
+      "§d     §7Команд зарегистрированно: %s",
+      "§fАптайм (§d%s§f) §d%s"
+    ]
+  },
+  "CORE_INFO_SERVER": {
+    "ru": [
+      "$CORE_PREFIX$Информация о сервере:",
+      "§d     §7Имя сервера: §d%s",
+      "§d     §7Мотд: §d%s",
+      "§d     §7Директория: §d%s",
+      "§d     §7Версия ядра: §d%s",
+      "§d     §7Количество игроков: §d%s",
+      "§d     §7IP: §5%s"
+    ]
+  },
+  "PLAYER_INFO": {
+    "ru": [
+      "$SERVER_PREFIX$Информация о игроке %s",
+      "§d     §fУникальный ID - §d%s",
+      "§d     §fПривилегия - %s",
+      "§d     §fМонеток - §6%s",
+      "§d     §fВиртов - §d%s",
+      "§d     §fИгровой язык - §c%s",
+      "§d     §fУровень - §d%s",
+      "§d     §fОпыт - §a%s",
+      "§d     §fДо нового уровня - §a%s",
+      ""
+    ]
+  },
+  "PLAYER_INFO_ONLINE": {
+    "ru": [
+      "§d     §fНа данный момент - %s",
+      "§d     §fТекущий сервер - §d%s",
+      "§d     §fТекущая прокси - §d%s",
+      "§d     §fВерсия клиента - §d%s"
+    ]
+  },
+  "PLAYER_INFO_OFFLINE": {
+    "ru": [
+      "§d     §fНа данный момент - %s",
+      "§d     §fПоследний сервер - §d%s",
+      "§d     §fБыл в сети §5%s §fназад"
+    ]
+  },
+  "ALREADY_ON_SERVER": {
+    "ru": "$SERVER_PREFIX$Ты уже находишься на этом сервере!",
+    "en": "$SERVER_PREFIX$You are already on this server!"
+  },
+  "SEND_FORMAT": {
+    "ru": "/send <ник игрока> <сервер>",
+    "en": "/send <player's nickname> <server>"
+  },
+  "SERVER_FORMAT": {
+    "ru": "/server <сервер>",
+    "en": "/server <server>"
+  },
+  "SERVER_QUEUE": {
+    "ru": "$SERVER_PREFIX$Телепортирую на сервер %s"
+  },
+  "SERVER_TELEPORTATION": {
+    "ru": "$SERVER_PREFIX$Ты был телепортирован на сервер §a%s"
+  },
+  "SERVER_TO": {
+    "ru": "$SERVER_PREFIX$Ты подключен к серверу §d%s"
+  },
+  "SERVER_NOT_FOUND_CORE": {
+    "ru": "$SERVER_PREFIX$Твой сервер был не найден в главном ядре!"
+  },
+  "SERVER_TO_WAIT": {
+    "ru": "$SERVER_PREFIX$Ждем появления вашего сервера..."
+  },
+  "SERVER_WAS_DOWN": {
+    "ru": "$SERVER_PREFIX$Сервер §5%s §fзакрыл Твоё соединение, ты перенаправлен на §d%s"
+  },
+  "SENDING_PLAYER_TO_SERVER": {
+    "ru": "$SERVER_PREFIX$Игрок %s §fуспешно телепортирован на сервер §b%s",
+    "en": "$SERVER_PREFIX$Player %s §fhas been successfully teleported to server §b%s"
+  },
+  "YOU_HAVE_BEEN_SENT": {
+    "ru": "$SERVER_PREFIX$%s §fтелепортировал тебя на сервер §b%s",
+    "en": "$SERVER_PREFIX$%s §fteleported you to the server §b%s"
+  },
+  "ONLINE_SERVER": {
+    "ru": "$SERVER_PREFIX$Онлайн сервера §b%s: §d%s §f%s"
+  },
+  "ONLINE_SERVERS": {
+    "ru": "$SERVER_PREFIX$Онлайн серверов по префиксу §b%s: §d%s §f%s"
+  },
+  "ONLINE_ALL_PLAYERS_ONLINE": {
+    "ru": "$SERVER_PREFIX$Общий онлайн проекта §d%s §f%s"
+  },
+  "FIND_FORMAT": {
+    "ru": "/find <ник игрока>",
+    "en": "/find <player's nickname>"
+  },
+  "FIND_RESULT": {
+    "ru": "$SERVER_PREFIX$Игрок %s §fнаходится на сервере §b%s",
+    "en": "$SERVER_PREFIX$Player %s §fis on the server §b%s"
+  },
+  "FIND_RESULT_OFFLINE": {
+    "ru": "$SERVER_PREFIX$Игрок %s §fоффлайн, последний раз он был на сервере §7%s §fназад",
+    "en": "$SERVER_PREFIX$Player %s §fis offline, last time seen on the server §7%s §fago"
+  }
+}

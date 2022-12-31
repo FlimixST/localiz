@@ -1,0 +1,247 @@
+{
+  "BUNGEE_ALREADY_ONLINE": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fДанный игрок уже на сервере!"
+    ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fThis player is already on the server!"
+    ]
+  },
+  "BUNGEE_INVALID_ADDRESS": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fТвой IP адрес содержит некорректные данные"
+      ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fYour IP address contains incorrect data"
+      ]
+  },
+  "BUNGEE_JOIN_SERVER_UNAVAILABLE": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fНе удалось найти подходящий сервер входа"
+      ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fCould not find an available login server"
+      ]
+  },
+  "BUNGEE_LOGGED_FROM_ANOTHER_LOCATION": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fВы были авторизованы с другого места"
+      ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fYou have been logged in from another location"
+      ]
+  },
+  "BUNGEE_NO_REASON_SPECIFIED": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fПричина не указана"
+      ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fNo reason specified"
+      ]
+  },
+  "BUNGEE_SQL_ERROR": {
+    "ru": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fНе удалось загрузить данные"
+      ],
+    "en": [
+      "$SERVER_KICK_PREFIX$",
+      "",
+      "§fFailed to load authorization data"
+      ]
+  },
+  "TAB_HEADER": {
+    "ru": [
+      " ",
+      "§d§lmc.Neko§f§lCloud.me§r",
+      "§7❤ Лучший в своем роде ❤§r",
+      " ",
+      "§fСервер: §5%s §7(%s)",
+      "§fОбщий онлайн: §d%s/%s",
+      " "
+    ]
+  },
+  "TAB_FOOTER": {
+    "ru": [
+      " ",
+      "§fОнлайн-магазин:",
+      "§d$WEBSITE$",
+      " "
+    ]
+  },
+  "SKIN_PREFIX": {
+    "ru": "§d§lСКИНЫ §8| §f"
+  },
+  "SKIN_FORMAT": {
+    "ru": [
+      "§d ",
+      "§d     /skin <ник> §8- §fУстановить скин",
+      "§d     /skin reset §8- §fСбросить скин"
+    ]
+  },
+  "SKIN_HAS_BEES_RESET": {
+    "ru": "$SKIN_PREFIX$Твой скин успешно сброшен!"
+  },
+  "SKIN_HAS_BEEN_UPDATED_TO":{
+    "ru": "$SKIN_PREFIX$Ты успешно установил скин игрока §d%s"
+  },
+  "SKIN_IS_INVALID": {
+    "ru": "$SKIN_PREFIX$Выбранный тобой скин невалиден или произошла какая-то ошибка :("
+  },
+  "PING": {
+    "ru": "$SERVER_PREFIX$Твой пинг: %s ms"
+  },
+  "PING_OTHER": {
+    "ru": "$SERVER_PREFIX$Пинг игрока %s: %s ms"
+  },
+  "WHITELIST_KICK_MESSAGE": {
+    "ru": [
+      "§d§lNeko§f§lCloud§r",
+      "",
+      "§fНа сервере ведутся §dтехнические работы",
+      "§fСледи за новостями: §5$HTTPS$$VK$"
+    ]
+  },
+
+  "ANNOUNCER_HELP_HOVER": {
+    "ru": "$CLICK_COMMAND$"
+  },
+  "ANNOUNCER_HELP": {
+    "ru": [
+      "",
+      " §d§l⎧ §fНужна §dпомощь§f? Не разбираешься в §dосновах§7?",
+      " §d§l⎜ §fСпециально для §5тебя §fнаша админша написала ",
+      " §d§l⎩ §5гайд §fпо серверу - §d§l/help",
+      ""
+    ]
+  },
+  "ANNOUNCER_PLAY_WITH_FRIENDS_HOVER": {
+    "ru": "$CLICK_COMMAND$"
+  },
+  "ANNOUNCER_PLAY_WITH_FRIENDS": {
+    "ru": [
+      "",
+      " §d§l⎧ §fУ нас можно §dпоиграть §fс §dдрузьями!",
+      " §d§l⎜ §fДля этого добавь своего §dдруга §f- §5/f add <ник друга>",
+      " §d§l⎩ §fИли можно играть всем §5классом - §d§l/party ",
+      ""
+    ]
+  },
+  "ANNOUNCER_NEWS_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "ANNOUNCER_NEWS": {
+    "ru": [
+      "",
+      " §d§l⎧ §fХочешь знать о §dновостях §fсервера?",
+      " §d§l⎜ §fТак у нас есть группа §9§lВКонтакте§f!",
+      " §d§l⎩ §fА вот §dссылка §7- §5$VK$",
+      ""
+    ]
+  },
+  "ANNOUNCER_NEKO_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "ANNOUNCER_NEKO": {
+    "ru": [
+      "",
+      " §d§l⎧ §5§lУНИКАЛЬНАЯ АКЦИЯ!",
+      " §d§l⎜ §fКупи донат §d§lNEKO §fи стань §dКОШКОДЕВОЧКОЙ",
+      " §d§l⎩ §fПокупка только на нашем сайте - §5$WEBSITE$",
+      ""
+    ]
+  },
+  "ANNOUNCER_LICENSE_HOVER": {
+    "ru": "$CLICK_COMMAND$"
+  },
+  "ANNOUNCER_LICENSE": {
+    "ru": [
+      "",
+      " §d§l⎧ §fНадоели §5пароли, привязки, взломы?",
+      " §d§l⎜ §fУ нас ты можешь включить авторизацию по §d§lлицензионному",
+      " §d§l⎩ §fMojang аккаунту! Используй команду §d/license",
+      ""
+    ]
+  },
+  "ANNOUNCER_2FA_VK_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "ANNOUNCER_2FA_VK": {
+    "ru": [
+      "",
+      " §d§l⎧ §d§lМяу, §fне используй на нашем сервере §5пароли §fкак на других!",
+      " §d§l⎜ §fИначе тебя могут §5§lвзломать.§f Обезопаситься можно, ",
+      " §d§l⎩ §dпривязав аккаунт §fк §b§lVK§f - §5$VK_BOT$",
+      ""
+    ]
+  },
+  "ANNOUNCER_2FA_DS_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "ANNOUNCER_2FA_DS": {
+    "ru": [
+      "",
+      " §d§l⎧ §d§lМяу, §fне используй на нашем сервере §5пароли §fкак на других!",
+      " §d§l⎜ §fИначе тебя могут §5§lвзломать.§f Обезопаситься можно,",
+      " §d§l⎩ §dпривязав аккаунт §fк §9§lDiscord§f - §5$DISCORD$",
+      ""
+    ]
+  },
+  "ANNOUNCER_SKIN_HOVER": {
+    "ru": "$CLICK_COMMAND$"
+  },
+  "ANNOUNCER_SKIN": {
+    "ru": [
+      "",
+      " §d§l⎧ §fНету §dлицензии§f, но хочешь себе красивый §5скин?",
+      " §d§l⎜ §fТы можешь §dизменить §fего на §dлюбой другой!",
+      " §d§l⎩ §fИспользуй команду - §5/skin",
+      ""
+    ]
+  },
+  "ANNOUNCER_DONATE_HOVER": {
+    "ru": "$CLICK_OPEN$"
+  },
+  "ANNOUNCER_DONATE": {
+    "ru": [
+      "",
+      " §d§l⎧ §d§lМяу!",
+      " §d§l⎜ §fУ нас§d можно купить§f донатик - §5/donate",
+      " §d§l⎩ §fПокупка только на нашем сайте - §5$WEBSITE$",
+      ""
+    ]
+  },
+  "ANNOUNCER_SUPPORT_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "ANNOUNCER_SUPPORT": {
+    "ru": [
+      "",
+      " §d§l⎧ §fВозникли какие-то §dпроблемы §fили §dвопросы?",
+      " §d§l⎜ §fОбратись в нашу техническую поддержку",
+      " §d§l⎩ §f$VK$ §fи тебе §5обязательно помогут!",
+      ""
+    ]
+  }
+}

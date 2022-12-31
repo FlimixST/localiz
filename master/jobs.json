@@ -1,0 +1,66 @@
+{
+  "JOBS_PREFIX": {
+    "ru": "§d§lРАБОТЫ §8| §f"
+  },
+  "WOODCUTTER_TOP_HEADER": {
+    "ru": "§d§lТОП ЛЕСОРУБОВ",
+    "en": "§d§lTOP OF THE LESSONS",
+    "ua": "§d§lТОП ЛІСОРУБІВ"
+  },
+  "MINER_TOP_HEADER": {
+    "ru": "§d§lТОП ШАХТЕРОВ",
+    "en": "§d§lTOP MINERS",
+    "ua": "§d§lТОП ШАХТАРІВ"
+  },
+  "JOBS_MINER_NOT_ORE": {
+    "ru": "$JOBS_PREFIX$Ошибка, ты можешь добывать только руду"
+  },
+  "JOBS_GAMEMODE": {
+    "ru": "$JOBS_PREFIX$Ошибка, ты не можешь работать в режиме креатива"
+  },
+  "JOBS_MINER_EARNED_BAR": {
+    "ru": "+§6§l%s⛂§f за добытую руду. Получить монетки можно у §eшахтера"
+  },
+  "JOBS_MINER_NO_ORE": {
+    "ru": "$JOBS_PREFIX$Ошибка, у тебя нет руды в рюказе для сдачи"
+  },
+  "JOBS_MINER_CANCEL": {
+    "ru": "$JOBS_PREFIX$Ты сдал(а) рюкзак с рудой и получил(а) +§6§l%s⛂§f"
+  },
+  "JOBS_WOODCUTTER_NO_WOODS": {
+    "ru": "$JOBS_PREFIX$Ошибка, у тебя нет деревьев в рюкзаке для сдачи"
+  },
+  "JOBS_WOODCUTTER_CANCEL": {
+    "ru": "$JOBS_PREFIX$Ты сдал(а) рюкзак с деревьями и получил(а) +§6§l%s⛂§f"
+  },
+  "JOBS_WOODCUTTER_NOT_WOOD": {
+    "ru": "$JOBS_PREFIX$Ошибка, ты можешь рубить только деревья"
+  },
+  "JOBS_WOODCUTTER_BREAK_WOOD_BAR": {
+    "ru": "+§6§l%s⛂§f за срубленную часть дерева. Осталось сломать %s блоков чтобы срубить дерево целиком"
+  },
+  "JOBS_WOODCUTTER_BREAK_TREE_BAR": {
+    "ru": "+§6§l%s⛂§f за срубленное дерево. Получить монетки можно у §aлесоруба"
+  },
+  "JOBS_BOARD_MINER_LINE": {
+    "ru": " Работа §dшахтера"
+  },
+  "JOBS_BOARD_WOODCUTTER_LINE": {
+    "ru": " Работа §dлесоруба"
+  },
+  "JOBS_BOARD_SALARY_LINE": {
+    "ru": "Зарплата: §6"
+  },
+  "JOBS_BOARD_MINED_LINE": {
+    "ru": "Добыто: §b"
+  },
+  "JOBS_BOARD_BOOSTER_LINE": {
+    "ru": "Бустер: §3"
+  },
+  "JOBS_BOARD_COMBO_LINE": {
+    "ru": "Комбо: §a"
+  },
+  "JOBS_BOARD_STATS_LINE": {
+    "ru": "§d§lСТАТИСТИКА"
+  }
+}

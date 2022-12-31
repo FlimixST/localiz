@@ -1,0 +1,203 @@
+{
+  "GRIEF_PREFIX": {
+    "ru": "§d§lГРИФ §8| §f",
+    "en": "§d§lGRIEF §8| §f",
+    "ua": "§d§lГРІФ §8| §f"
+  },
+  "GRIEF_HOLO_RTP": {
+    "ru": [
+      "§d§lРАНДОМНАЯ ТЕЛЕПОРТАЦИЯ",
+      " ",
+      "§fХочешь найти §dпустое место §fбез привата",
+      "§fдля постройки своего §dнового домика§f?",
+      "§d↓ §fТогда прыгай сюда §d↓",
+      ";skull;false;true;3e80c73b765d9f2e2a1ae6d9df96c5fbc6126ee54f9df0a46bb1f00ef0b0279e"
+    ]
+  },
+  "GRIEF_HOLO_CASES": {
+    "ru": [
+      "§d§lКЕЙСЫ",
+      " ",
+      "§fГлавный приз §7→ §d§lNEKO",
+      "§fШанс выпадения дорогих привилегий, §dувеличен §a⇑",
+      " ",
+      " §cϟ 1 §fкейс – §c49 рублей   ",
+      " §eϟ 5 §fкейсов - §e99 рублей  ",
+      " §aϟ 10 §fкейсов – §a159 рублей   ",
+      " §dϟ 25 §fкейсов – §d345 рублей   ",
+      " ",
+      " $BUY_TEXT$",
+      ";skull;false;true;588149e56cde02eee620982884b893634756be9141f2e2777b51cb0a66c31dce"
+    ]
+  },
+  "HOLO_GRIEF_HELLO": {
+    "ru": [
+      "§5§l▷ §d§lNeko§f§lCloud §5§l◁",
+      " ",
+      "§fМеню сервера - §d/menu",
+      "§fРаботы - §d/jobs",
+      "§fОписание доната - §d/donate",
+      "§fМагазин - §d/shop",
+      "§fРТП- §d/warp rtp",
+      "§fКвесты §8- §d/warp quest",
+      " ",
+      "§fСайт сервера: §d§lNeko§f§lCloud.me",
+      "§fГруппа Вконтакте: §d§lvk.com/Neko§f§lCloud",
+      " ",
+      ";skull;false;true;67c41930f8ff0f2b0430e169ae5f38e984df1244215705c6f173862844543e9d"
+    ]
+  },
+  "GRIEF_HOLO_MARKET": {
+    "ru": [
+      "§d§lМАГАЗИН",
+      " ",
+      "§fЗдесь вы можете §cпродать",
+      "§fсвои предметы, или §aкупить",
+      "§d§lдонатерские предметы",
+      " ",
+      "$BUY_TEXT$",
+      " ",
+      ";skull;false;true;ac906d688e65802569d9705b579bce56edc86ea5c36bdd6d6fc35516a77d4"
+    ]
+  },
+  "NO_DATA_ALIVE": {
+    "ru": "§7Пусто",
+    "en": "§7Blank",
+    "ua": "§7Пусто"
+  },
+  "TRADER_PREFIX": {
+    "ru": "§d§lСКУПЩИК §8| §f"
+  },
+  "HOLO_TRADER_NPC": {
+    "ru": [
+      "§d§lСКУПЩИК",
+      "§fПринимаемая валюта: §6монеты",
+      ";timer;",
+      "$CLICK_OPEN$"
+    ]
+  },
+  "GRIEF_HOLO_PORTALS": {
+    "ru": [
+      "§d§lПОРТАЛЫ",
+      " ",
+      "§fХотел бы побывать в других",
+      "§dизмерениях §fнашего сервера?",
+      "§fТогда скорее прыгай в порталы, они",
+      "§fнаходятся §d← §fи §d→",
+      " ",
+      ";skull;false;true;8be6226d61ecccdb5732b6f71560d6401d2ca0eff8e1aafbbe3cb73fb5a9f"
+    ]
+  },
+  "TRADER_GUI_NAME": {
+    "ru": "§0➲ §0§nСКУПЩИК§r"
+  },
+  "TRADER_ITEM_LORE": {
+    "ru": [
+      "",
+      "§d⋄ §7Стоимость: §e%s§6⛂",
+      "§d⋄ §7Количество: §6x%s",
+      "",
+      "$CLICK_TO_SELL$"
+    ]
+  },
+  "TRADER_SELL_ITEMS": {
+    "ru": "$TRADER_PREFIX$Ты успешно продал(а) §d%s §fпредметов и получил(а) +§6%s⛂"
+  },
+  "TRADER_NOT_ENOUGH_ITEMS": {
+    "ru": "$TRADER_PREFIX$Ошибка, у тебя §5недостаточно§f предметов для продажи!"
+  },
+  "TRADER_NO_ITEMS": {
+    "ru": "$TRADER_PREFIX$Ошибка, у тебя §5недостаточно§f необходимых предметов для продажи"
+  },
+  "NIGHT": {
+    "ru": "§d§lНочь",
+    "en": "§d§lNight",
+    "ua": "§d§lНоч"
+  },
+  "RAINY": {
+    "ru": "§d§lДождь",
+    "en": "§d§lRainy"
+  },
+  "DAY": {
+    "ru": "§d§lДень",
+    "en": "§d§lDay"
+  },
+  "MORNING": {
+    "ru": "§d§lУтро",
+    "en": "§d§lMorning"
+  },
+  "SUNNY": {
+    "ru": "§d§lЯсно",
+    "en": "§d§lSunny"
+  },
+  "SYSTEM_WARP_ITEM_CHANGER_NAME": {
+    "ru": "Системные варпы",
+    "en": "System warps"
+  },
+  "SYSTEM_WARP_ITEM_CHANGER_LORE": {
+    "ru": [
+      "",
+      "§7Показать список системных варпов",
+      "",
+      "$CLICK_TO_CHANGE$"
+    ]
+  },
+  "SYSWARP_WOOD": {
+    "ru": "§d§lЛесорубка",
+    "en": "§d§lWoodcutter"
+  },
+  "SYSTEM_WARP_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Владелец: %s",
+      "§7Дата создания: §f%s",
+      "§7Координаты варпа:",
+      " §7Мир: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "$CLICK_TO_TP$"
+    ]
+  },
+  "SYSTEM_WARP_GUI_NAME": {
+    "ru": "Системные варпы",
+    "en": "System warps"
+  },
+  "AUCTION_NPC_NAME": {
+    "ru": [
+      "§d§lАУКЦИОН",
+      "§fПринимаемая валюта: §6монеты",
+      " ",
+      "$CLICK_OPEN$"
+    ]
+  },
+  "MARKET_NPC_NAME": {
+    "ru": [
+      "§d§lМАГАЗИН",
+      "§fПринимаемая валюта: §6монеты",
+      " ",
+      "$CLICK_OPEN$"
+    ]
+  },
+  "PVPEXIT_NPC_NAME": {
+    "ru": [
+      "§d§lВЫХОД",
+      "§fВыход с PvP-арены",
+      "§7§o(недоступно в PvP-режиме)",
+      "$CLICK_TO_TP$"
+    ]
+  },
+  "PVP_NPC_NAME": {
+    "ru": [
+      "§d§lПВП АРЕНА",
+      "§fЗаход на PvP-арену",
+      "$CLICK_TO_TP$"
+    ]
+  },
+  "GRIEF_BOARD_NAME": {
+    "ru": "§7⚔ §d§lГРИФ §7⚔",
+    "en": "§7⚔ §d§lGRIEF §7⚔",
+    "ua": "§7⚔ §d§lГРІФ §7⚔"
+  }
+}

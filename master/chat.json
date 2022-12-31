@@ -1,0 +1,109 @@
+{
+  "CHAT_PREFIX": {
+    "ru": "§d§lЧАТ §8| §f"
+  },
+  "MSG_FORMAT": {
+    "ru": "/msg <игрок> <сообщение>"
+  },
+  "REPLY_FORMAT": {
+    "ru": "/r <сообщение>"
+  },
+  "IGNORE_FORMAT": {
+    "ru": [
+      "$CHAT_PREFIX$Помощь по команде /ignore",
+      "",
+      "§d     /ignore add <игрок> §8- §fДобавить игрока в список игнорируемых",
+      "§d     /ignore remove/del <игрок> §8- §fУдалить игрока из списка игнорируемых",
+      "§d     /ignore list §8- §fОткрыть список игнорируемых игроков",
+      ""
+    ]
+  },
+  "IGNORE_ADD_FORMAT": {
+    "ru": "/ignore add <игрок>"
+  },
+  "IGNORE_DEL_FORMAT": {
+    "ru": "/ignore del <игрок>"
+  },
+  "DONATE_CHAT_FORMAT": {
+    "ru": "/dc <сообщение>"
+  },
+  "STAFF_CHAT_FORMAT": {
+    "ru": "/sc <сообщение>"
+  },
+  "MESSAGE_SELF_ME": {
+    "ru": "$CHAT_PREFIX$Ошибка, ты не можешь написать самому себе!"
+  },
+  "IGNORE_PLAYERS_SAME": {
+    "ru": "$CHAT_PREFIX$Ошибка, ты не можешь игнорировать сам себя!"
+  },
+  "MESSAGE_NO_REPLY": {
+    "ru": "$CHAT_PREFIX$Тебе еще не писали личных сообщений :("
+  },
+  "IGNORE_ADD_PLAYER": {
+    "ru": [
+      "$CHAT_PREFIX$Ты добавил игрока %s в список игнорируемых.",
+      "$CHAT_PREFIX$Теперь он не может отправлять тебе личные сообщения."
+    ]
+  },
+  "IGNORE_DEL_PLAYER": {
+    "ru": "$CHAT_PREFIX$Ты больше не игнорируешь игрока %s, теперь он может отправлять тебе личные сообщения."
+  },
+  "IGNORE_ALL_ON": {
+    "ru": "$CHAT_PREFIX$Теперь игроки не могут отправлять тебе личные сообщения!"
+  },
+  "IGNORE_ALL_OFF": {
+    "ru": "$CHAT_PREFIX$Теперь игроки могут отправлять тебе личные сообщения!"
+  },
+  "TARGET_IGNORE": {
+    "ru": "$CHAT_PREFIX$Ошибка, игрок %s игнорирует тебя!"
+  },
+  "TARGET_IGNORE_ALL": {
+    "ru": "$CHAT_PREFIX$Ошибка, данный игрок отключил личные сообщения."
+  },
+  "DONATE_CHAT_OFF": {
+    "ru": "$CHAT_PREFIX$У тебя отключен донат-чат, ты не можешь сюда писать!"
+  },
+  "RECEIVED_MESSAGE_FORMAT": {
+    "ru": "§d§lЛС §8| §r%s §8➾ §r%s:§r %s"
+  },
+  "PARTY_CHAT": {
+    "ru": "§3§lКОМПАНИЯ §8| §r%s"
+  },
+  "DONATE_CHAT": {
+    "ru": "§3§lДОНАТ-ЧАТ §8| §r%s"
+  },
+  "GUILD_CHAT": {
+    "ru": "§9§lГИЛЬДИЯ §8| §r%s"
+  },
+  "MESSAGE_CHAT_HOVER": {
+    "ru": [
+      "§d↪ §7§fКликни сюда, чтобы написать",
+      " §7игроку %s §7в лс"
+    ],
+    "en": [
+      "§d↪ §7Click here to write to the player",
+      " §7again %s §7in pm"
+    ]
+  },
+  "OFFLINE_MESSAGE_SEND_SUCCESS": {
+    "ru": [
+      "$CHAT_PREFIX$Игрок %s §fсейчас не в сети. Ему было отправлено оффлайн сообщение,",
+      "§f     которое он сможет прочитать после следующего входа на сервер"
+    ]
+  },
+  "OFFLINE_MESSAGE_SEND_COOLDOWN": {
+    "ru": "$CHAT_PREFIX$Подожди %s %s перед следующей отправкой оффлайн сообщений"
+  },
+  "OFFLINE_MESSAGES_SEND_ON_JOIN": {
+    "ru": "$CHAT_PREFIX$В момент твоего отсутствия, тебе пришло несколько сообщений от игроков......"
+  },
+  "IGNORE_LIST_EMPTY": {
+    "ru": "$CHAT_PREFIX$Твой список игнорируемых игроков пуст"
+  },
+  "IGNORE_GUI_NAME": {
+    "ru": "§0➲ §0§nИГНОРИРУЕМЫЕ ИГРОКИ§r"
+  },
+  "IGNORE_ITEM_LORE": {
+    "ru": "$CLICK_TO$ перестать игнорировать"
+  }
+}

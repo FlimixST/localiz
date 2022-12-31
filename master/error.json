@@ -1,0 +1,88 @@
+{
+  "ERROR_COMMAND": {
+    "ru": "%sОшибка, используй: §d%s"
+  },
+  "ERROR_CONNECT": {
+    "ru": "$SERVER_PREFIX$Ошибка, ты не смог подключиться к серверу %s! Ты был перенаправлен на сервер %s"
+  },
+  "ERROR_START_GAMER_ARENA": {
+    "ru": "$SERVER_PREFIX$Ошибка, не хватает игроков для старта"
+  },
+  "ERROR_TELEPORT": {
+    "ru": "$SERVER_PREFIX$Ошибка телепортации в лобби :("
+  },
+  "ERROR_TO_LOBBY": {
+    "ru": "$SERVER_PREFIX$Ошибка при телепортации в лобби :("
+  },
+  "ERROR_WITH_YOUR_BUKKIT": {
+    "ru": "$SERVER_PREFIX$С Твоим аккаунтом произошла ошибка :( Перезайди на сервер и попробуй ввести команду снова"
+  },
+  "ERROR_ONLY_AUTH_PLAYER": {
+    "ru": "$SERVER_PREFIX$Ошибка, команда доступна только авторизированным игрокам!"
+  },
+  "ERROR_LOGIN_SERVER": {
+    "ru": "$SERVER_PREFIX$Ошибка, команда не доступна на данном сервере!"
+  },
+  "NOT_BEST_SERVER": {
+    "ru": "$SERVER_PREFIX$Нет подходящей арены!"
+  },
+  "DO_NOT_SEND_SIMILAR_MESSAGES": {
+    "ru": " $SERVER_PREFIX$Не повторяй одинаковые сообщения!"
+  },
+  "DO_NOT_SPAM": {
+    "ru": " $SERVER_PREFIX$Не флуди! :("
+  },
+  "NOT_DOMAIN_PIAR": {
+    "ru": "$SERVER_PREFIX$У нас запрещено рекламировать сайты и сторонние ресурсы"
+  },
+  "NOT_PIAR": {
+    "ru": "$SERVER_PREFIX$Рекламировать каналы могут только игроки с привилегией §6YT §fи §fT§5T§f!"
+  },
+  "ERROR_ANTI_CHARS": {
+    "ru": "; $SERVER_PREFIX$Что это за длинное слово? §f<match>; "
+  },
+  "ERROR_CONNECT_BY_COMMAND": {
+    "ru": "; $SERVER_PREFIX$Ошибка, на этот сервер нельзя телепортироваться через команду ;"
+  },
+  "FILTER_ANTI_UTF": {
+    "ru": "; $SERVER_PREFIX$Обнаружен запрещенный символ §f<match>; "
+  },
+  "NO_FOUND_PLAYER": {
+    "ru": "$SERVER_PREFIX$Ошибка, игрок §5%s§f не найден или он оффлайн"
+  },
+  "NO_NEVER_PLAYER": {
+    "ru": "$SERVER_PREFIX$Ошибка, игрок §5%s§f никогда не играл у нас!"
+  },
+  "NO_HUB_FOUND": {
+    "ru": "$SERVER_PREFIX$Ошибка, доступные хаб сервера не найдены!"
+  },
+  "NO_LOBBY_FOUND": {
+    "ru": "$SERVER_PREFIX$Ошибка, доступные лобби сервера не найдены!"
+  },
+  "NO_PERMS": {
+    "ru": "$SERVER_PREFIX$Ошибка, недостаточно прав!"
+  },
+  "NO_PERMS_GROUP": {
+    "ru": "$SERVER_PREFIX$Ошибка, недостаточно прав, купи %s §fили выше!"
+  },
+  "NO_PERMS_NEKO_ONLY": {
+    "ru": "$SERVER_PREFIX$Ошибка, данная функция доступна только для §d§lNEKO"
+  },
+  "SERVER_ERROR": {
+    "ru": "$SERVER_PREFIX$Возникла внутренняя ошибка сервера"
+  },
+  "SERVER_ERROR_KICK": {
+    "ru": "$SERVER_PREFIX$Сервер %s разорвал подключение: %s"
+  },
+  "SERVER_IS_NOT_ONLINE": {
+    "ru": "$SERVER_PREFIX$Ошибка, сервер не найден!",
+    "en": "$SERVER_PREFIX$Error, server not found!"
+  },
+  "AVAILABLE_SERVER_NOT_FOUND": {
+    "ru": "$SERVER_PREFIX$Не удалось найти подходящий сервер",
+    "en": "$SERVER_PREFIX$Could not find a suitable server"
+  },
+  "SERVERS_NOT_FOUND": {
+    "ru": "$SERVER_PREFIX$Ошибка, указанные сервера не найдены"
+  }
+}

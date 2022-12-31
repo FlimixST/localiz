@@ -1,0 +1,444 @@
+{
+  "SERVER_PREFIX": {
+    "ru": "§d§lСЕРВЕР §8| §f",
+    "en": "§d§lSERVER §8| §f",
+    "ua": "§d§lСЕРВЕР §8| §f"
+  },
+  "LANGUAGE_CHANGE": {
+    "ru": "$SERVER_PREFIX$Язык успешно изменен на: §5%s"
+  },
+  "ONLINE": {
+    "ru": "§aВ сети"
+  },
+  "OFFLINE": {
+    "ru": "§cНе в сети"
+  },
+  "WEBSITE": {
+    "ru": "NekoCloud.me"
+  },
+  "IP": {
+    "ru": "mc.NekoCloud.me"
+  },
+  "VK": {
+    "ru": "vk.com/NekoCloud"
+  },
+  "VK_BOT": {
+    "ru": "vk.com/NekoCloud_BOT"
+  },
+  "DISCORD": {
+    "ru": "discord.gg/wMtZ5aayG2"
+  },
+  "FORUM": {
+    "ru": "forum.NekoCloud.me"
+  },
+  "HTTPS": {
+    "ru": "https://"
+  },
+  "SERVER_KICK_PREFIX": {
+    "ru": "§d§lNeko§f§lCloud§r"
+  },
+  "CLICK_OPEN": {
+    "ru": "$CLICK_TO$ открыть"
+  },
+  "CLICK_LINK": {
+    "ru": "$CLICK_TO$ открыть ссылку"
+  },
+  "CLICK_COMMAND": {
+    "ru": "$CLICK_TO$ выполнить команду"
+  },
+  "CLICK_TO_SELL": {
+    "ru": "$CLICK_TO$ продать"
+  },
+  "CLICK_TO_BUY": {
+    "ru": "$CLICK_TO$ приобрести"
+  },
+  "CLICK_TO_TP": {
+    "ru": "$CLICK_TO$ телепортироваться"
+  },
+  "CLICK_TO_CHANGE": {
+    "ru": "$CLICK_TO$ изменить"
+  },
+  "CLICK_TO": {
+    "ru": "§d↪ §7Кликни, чтобы"
+  },
+  "PKM_TO": {
+    "ru": "§d↪ §7Клики ПКМ чтобы"
+  },
+  "LKM_TO": {
+    "ru": "§d↪ §7Клики ЛКМ чтобы"
+  },
+  "BUY_TEXT": {
+    "ru": "§fПокупка на сайте: §d§lNeko§f§lCloud.me"
+  },
+  "LOADING": {
+    "ru": "§cЗагружается..."
+  },
+  "DISABLED": {
+    "ru": "§cОТКЛЮЧЕНЫ"
+  },
+  "ENABLED": {
+    "ru": "§aВКЛЮЧЕНЫ"
+  },
+  "SYSTEM_DISABLED_LORE": {
+    "ru": [
+      "§cДанная функция отключена"
+    ]
+  },
+  "UNKNOWN_SUBCOMMAND": {
+    "ru": "§cДанной команды не существует 0_о",
+    "en": "§cThis command doesn't exist 0_о"
+  },
+  "WAIT_PLS": {
+    "ru": "§cПодожди немножко...",
+    "en": "§cWait a little bit..."
+  },
+  "INVITE_ACCEPT_BUTTON": {
+    "ru": "§a§l[ПРИНЯТЬ]"
+  },
+  "INVITE_DECLINE_BUTTON": {
+    "ru": "§c§l[ОТКЛОНИТЬ]"
+  },
+  "BALANCE": {
+    "ru": "$SERVER_PREFIX$На твоем аккаунте %s"
+  },
+  "COOLDOWN": {
+    "ru": "$SERVER_PREFIX$Подожди %s %s перед следующим использованием"
+  },
+  "LIST_CMD": {
+    "ru": [
+      "",
+      "$SERVER_PREFIX$На режиме %s",
+      " §a▪ §fКрутые ребята: %s",
+      " §a▪ §fИгроки: %s",
+      " §a▪ §fДонатеры: %s",
+      " §a▪ §fАдминистрация: %s",
+      ""
+    ]
+  },
+  "COMMAND_ARGUMENT": {
+    "FRIEND": {
+      "ru": "ник друга"
+    },
+    "GUILD": {
+      "ru": "имя гильдии"
+    },
+    "ICON": {
+      "ru": "иконка"
+    },
+    "ID": {
+      "ru": "ID"
+    },
+    "LINE": {
+      "ru": "строка"
+    },
+    "MESSAGE": {
+      "ru": "сообщение"
+    },
+    "MONEY": {
+      "ru": "сумма"
+    },
+    "RARITY": {
+      "ru": "редкость"
+    },
+    "NEW_PLAYER": {
+      "ru": "новый игрок"
+    },
+    "OLD_PLAYER": {
+      "ru": "старый игрок"
+    },
+    "PLAYER": {
+      "ru": "ник игрока"
+    },
+    "NAME": {
+      "ru": "имя"
+    },
+    "TITLE_CATEGORY_ID": {
+      "ru": "ID категории"
+    },
+    "TITLE_ID": {
+      "ru": "ID титула"
+    },
+    "RANK": {
+      "ru": "ранг"
+    },
+    "REASON": {
+      "ru": "причина"
+    },
+    "SERVER": {
+      "ru": "сервер"
+    },
+    "SETTING": {
+      "ru": "настройка"
+    },
+    "TAG": {
+      "ru": "тэг"
+    },
+    "VALUE": {
+      "ru": "значение"
+    },
+    "DOMAIN": {
+      "ru": "домен"
+    },
+    "START_DATE": {
+      "ru": "стартовая дата"
+    },
+    "END_DATE": {
+      "ru": "конечная дата"
+    }
+  },
+  "LVL_UP": {
+    "ru": "§a§l§kX§r §d§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r",
+    "en": "§a§l§kX§r §d§lLEVEL INCREASED §a§l§kX§r"
+  },
+  "NEW_LVL": {
+    "ru": "§fПоздравляем, ты достиг §d%s§f уровня!"
+  },
+  "EXP_TO_NEW_LVL": {
+    "ru": "§fДо следующего уровня нужно §5%s§f опыта"
+  },
+  "GET_REWARD": {
+    "ru": "§7Зайди в профиль, чтобы получить свою награду"
+  },
+  "LEVEL_COMMAND": {
+    "ru": [
+      "$LEVEL_PREFIX$Игровой уровень - ",
+      "     ",
+      "     Текущий уровень: §d%s %s §6%s",
+      "     До следующего уровня: §a%s XP",
+      "     "
+    ]
+  },
+  "LEVEL_NO_LEVEL": {
+    "ru": "$LEVEL_PREFIX$Ошибка, твой уровень слишком мал для получения этой награды :("
+  },
+  "LEVEL_ALLREADY_GIVE": {
+    "ru": "$LEVEL_PREFIX$Ошибка, ты уже получил эту награду"
+  },
+  "LEVEL_NO_OTHER_REWARD": {
+    "ru": "$LEVEL_PREFIX$Ошибка, перед получением этой награды ты должен получить все предыдущие :("
+  },
+  "LEVEL_PREFIX": {
+    "ru": "§d§lУРОВНИ §8| §f"
+  },
+  "RULES_COMMAND": {
+    "ru": "$SERVER_PREFIX$Полный список правил сервера - "
+  },
+  "RULES_COMMAND_HOVER": {
+    "ru": "$CLICK_LINK$"
+  },
+  "FAST_MESSAGE": {
+    "GO": {
+      "ru": "Гоу"
+    },
+    "SLEEP": {
+      "ru": "Засыпаю"
+    },
+    "CAPITULATE": {
+      "ru": "Сдаюсь"
+    },
+    "MAJOR": {
+      "ru": "Мажор"
+    },
+    "ENRAGES": {
+      "ru": "Горит"
+    },
+    "HELLO": {
+      "ru": "Привет"
+    },
+    "GOODBYE": {
+      "ru": "Пока"
+    },
+    "HUGGING": {
+      "ru": "Обнимаю"
+    },
+    "SAD": {
+      "ru": "Грущу"
+    },
+    "JEEZ": {
+      "ru": "Огого"
+    },
+    "WHY": {
+      "ru": "Чее?"
+    },
+    "ACCESSIBLY": {
+      "ru": "Ясно"
+    },
+    "DONT_STUPID": {
+      "ru": "Не тупи"
+    },
+    "NICELY": {
+      "ru": "Мило"
+    },
+    "OFFENSIVELY": {
+      "ru": "Обидно"
+    },
+    "WFT": {
+      "ru": "ВТФ???"
+    },
+    "KILLED": {
+      "ru": "Убит"
+    },
+    "DANCING": {
+      "ru": "Танцую"
+    },
+    "XZ": {
+      "ru": "Хз"
+    },
+    "EATING": {
+      "ru": "Кушаю"
+    },
+    "GO_AWAY": {
+      "ru": "Пошел вон"
+    },
+    "MUSIC": {
+      "ru": "Слушаю музыку"
+    },
+    "FUCK": {
+      "ru": "ФАК Ю"
+    },
+    "WOW": {
+      "ru": "Вау, клёво"
+    },
+    "LOVE": {
+      "ru": "Люблю"
+    },
+    "LAGS": {
+      "ru": "Лагает"
+    },
+    "EASY": {
+      "ru": "ИЗИ"
+    },
+    "RESOURCES": {
+      "ru": "Дай ресов"
+    }
+  },
+  "FAST_MESSAGE_LORE1": {
+    "ru": "§7Сообщение: §d%s"
+  },
+  "FAST_MESSAGE_LORE2":{
+    "ru": [
+      "",
+      " §d↪ §7Кликни, чтобы отправить сообщение"
+    ]
+  },
+  "TOP_PLACE": {
+    "ru": "место",
+    "en": "place"
+  },
+  "TOP_POSITION": {
+    "ru": "§e%s место",
+    "en": "§e%s place"
+  },
+  "HOLO_TOP_ALL": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по победам",
+      "§fза §eВСЕ ВРЕМЯ"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців ао перемогах",
+      "§fза §eВЕСЬ ЧАС"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by wins",
+      "§fза §eALL TIME"
+    ]
+  },
+  "HOLO_TOP_MONTHLY": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по победам",
+      "§fза §e%s"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців по перемогах",
+      "§fза §e%s"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by wins",
+      "§fза §e%s"
+    ]
+  },
+  "HOLO_TOP_MAIN": {
+    "ru": "§7Нажмите, чтобы сменить топ",
+    "ua": "§7Натисніть, щоб змінити топ",
+    "en": "§7Click to change top"
+  },
+  "HOLO_TOP_UPDATE": {
+    "ru": "§cДо обновления: §c%s",
+    "ua": "§cДо оновлення: §c%s",
+    "en": "§cUntil update: §c%s"
+  },
+  "HOLO_TOP_UPDATE_NOW": {
+    "ru": "Обновлено!",
+    "ua": "Оновлено!",
+    "en": "Updated!"
+  },
+  "ENABLE": {
+    "ru": "Включено",
+    "ua": "Включений",
+    "en": "Enabled"
+  },
+  "DISABLE": {
+    "ru": "Отключено",
+    "ua": "Відключений",
+    "en": "Disabled"
+  },
+  "COLOR": {
+    "DARK_AQUA": {
+      "ru": "Бирюзовый",
+      "ua": "Бірюзовий",
+      "en": "Turquoise"
+    },
+    "DARK_BLUE": {
+      "ru": "Синий",
+      "ua": "Синій",
+      "en": "Blue"
+    },
+    "DARK_GRAY": {
+      "ru": "Темно - серый",
+      "ua": "Темно-сірий",
+      "en": "Drak gray"
+    },
+    "DARK_GREEN": {
+      "ru": "Зеленый",
+      "ua": "Зелений",
+      "en": "Green"
+    },
+    "DARK_PURPLE": {
+      "ru": "Фиолетовый",
+      "ua": "Фіолетовий",
+      "en": "Purple"
+    },
+    "DARK_RED": {
+      "ru": "Темно - красный",
+      "ua": "Темно-червоний",
+      "en": "Dark red"
+    },
+    "GRAY": {
+      "ru": "Серый"
+    },
+    "YELLOW": {
+      "ru": "Жёлтый"
+    },
+    "AQUA": {
+      "ru": "Голубой"
+    },
+    "GREEN": {
+      "ru": "Зелёный"
+    },
+    "RED": {
+      "ru": "Красный"
+    },
+    "GOLD": {
+      "ru": "Оранжевый"
+    },
+    "LIGHT_PURPLE": {
+      "ru": "Розовый"
+    }
+  }
+}

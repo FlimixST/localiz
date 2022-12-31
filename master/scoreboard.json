@@ -1,0 +1,212 @@
+{
+  "BOARD_ACHIEVEMENT": {
+    "ru": "§fВыполнено достижений",
+    "en": "§fAchievements completed"
+  },
+  "BOARD_AIRDROP": {
+    "ru": "§fСобрано ящиков"
+  },
+  "BOARD_BALANCE": {
+    "ru": "§fБаланс"
+  },
+  "BOARD_BED": {
+    "ru": "§fКровать"
+  },
+  "BOARD_BORDERTIME": {
+    "ru": "§fСужение границ"
+  },
+  "BOARD_BUSTER": {
+    "ru": "§fАктивный бустер",
+    "en": "§fActive booster"
+  },
+  "BOARD_CHEST": {
+    "ru": "§fСундуков",
+    "en": "§fChests"
+  },
+  "BOARD_COLOR": {
+    "ru": "§fЦвет",
+    "en": "§fColor"
+  },
+  "BOARD_DEATH": {
+    "ru": "§fСмертей",
+    "en": "§fDeaths"
+  },
+  "BOARD_EGG": {
+    "ru": "§fЯйцо",
+    "en": "§fEgg"
+  },
+  "BOARD_FINAL_KILLS": {
+    "ru": "§fФинальных убийств",
+    "en": "§fFinal kills"
+  },
+  "BOARD_FOR_START": {
+    "ru": "§fДля старта нужно"
+  },
+  "BOARD_GLOBAL_ONLINE": {
+    "ru": "§fОнлайн проекта",
+    "ua": "§fОнлайн проекту",
+    "en": "§fOnline project"
+  },
+  "BOARD_GROUP": {
+    "ru": "§fСтатус"
+  },
+  "BOARD_ISLAND_YOU": {
+    "ru": "§fВаш остров"
+  },
+  "BOARD_KILLS": {
+    "ru": "§fУбийств",
+    "en": "§fKills"
+  },
+  "BOARD_LEVEL": {
+    "ru": "§fУровень",
+    "en": "§fLevel"
+  },
+  "BOARD_LEVEL_ISLAND": {
+    "ru": "§fУровень острова",
+    "en": "§fIsland level"
+  },
+  "BOARD_LIFE_COUNT": {
+    "ru": "§fЖизней",
+    "en": "§fLives"
+  },
+  "BOARD_MAPS": {
+    "ru": "§fКарта",
+    "en": "§fMap"
+  },
+  "BOARD_MEMBER_ISLAND": {
+    "ru": "§fКол-во участников",
+    "en": "§fMembers amount"
+  },
+  "BOARD_MOBS": {
+    "ru": "§fУбито мобов",
+    "en": "§fMobs killed"
+  },
+  "BOARD_MODE": {
+    "ru": "§fРежим",
+    "ua": "§fРежим",
+    "en": "§fMode"
+  },
+  "BOARD_MODULE": {
+    "ru": "§fМодуль",
+    "en": "§fModule"
+  },
+  "BOARD_MONEY": {
+    "ru": "§fМонет",
+    "en": "§fCoins"
+  },
+  "BOARD_NA": {
+    "ru": "§fНе выбрано",
+    "en": "§fNot chosen"
+  },
+  "BOARD_ONLINE": {
+    "ru": "§fОнлайн",
+    "en": "§fOnline"
+  },
+  "BOARD_OUR_TEAM": {
+    "ru": "§fВаша команда",
+    "en": "§fYour team"
+  },
+  "BOARD_OWNER": {
+    "ru": "§fВладелец",
+    "en": "§fOwner"
+  },
+  "BOARD_PERK": {
+    "ru": "§fУмение",
+    "en": "§fSkill"
+  },
+  "BOARD_PLAYERS": {
+    "ru": "§fИгроков",
+    "en": "§fPlayers"
+  },
+  "BOARD_POINTS": {
+    "ru": "§fОчков",
+    "en": "§fPoints"
+  },
+  "BOARD_RANK_YOU": {
+    "ru": "§fСтатус",
+    "en": "§fStatus"
+  },
+  "BOARD_REGION": {
+    "ru": "§fРегион",
+    "en": "§fRegion"
+  },
+  "BOARD_REGIONS": {
+    "ru": "§fКол-во приватов",
+    "en": "§fAmount of privates"
+  },
+  "BOARD_SERVER": {
+    "ru": "§fСервер",
+    "en": "§fServer"
+  },
+  "BOARD_SHOP": {
+    "ru": "§fМагазин",
+    "en": "§fShop"
+  },
+  "BOARD_SPECTATOR": {
+    "ru": "§fНаблюдателей",
+    "en": "§fSpectators"
+  },
+  "BOARD_STATS": {
+    "ru": "§fПодробнее",
+    "en": "§fDetailes"
+  },
+  "BOARD_TEAMS": {
+    "ru": "§fКоманды",
+    "en": "§fTeams"
+  },
+  "BOARD_REMAINING_TIME": {
+    "ru": "§fДо конца: §a%s"
+  },
+  "BOARD_TIME": {
+    "ru": "§fВремя",
+    "en": "§fTime"
+  },
+  "BOARD_TIME_TO_DM": {
+    "ru": "§fВремя до дезматча"
+  },
+  "BOARD_TOTAL_BED": {
+    "ru": "§fСломано кроватей"
+  },
+  "BOARD_TOTAL_EGG": {
+    "ru": "§fСломано яиц"
+  },
+  "BOARD_TOTAL_GAMES": {
+    "ru": "§fСыграно игр"
+  },
+  "BOARD_TOTAL_GEN": {
+    "ru": "§fУлучшено генераторов"
+  },
+  "BOARD_TOTAL_KILLS": {
+    "ru": "§fВсего убийств"
+  },
+  "BOARD_TOTAL_LUCKYBLOCKS": {
+    "ru": "§fСломано блоков"
+  },
+  "BOARD_TOTAL_MID_LUCKYBLOCKS": {
+    "ru": "§fСломано мидовых блоков"
+  },
+  "BOARD_TOTAL_WINS": {
+    "ru": "§fВсего побед"
+  },
+  "BOARD_TO_START": {
+    "ru": "§fСтарт через"
+  },
+  "BOARD_UPGRADE": {
+    "ru": "§fУлучшений"
+  },
+  "BOARD_WAIT": {
+    "ru": "§fОжидание игроков"
+  },
+  "BOARD_VIRTS": {
+    "ru": "§fВиртов"
+  },
+  "BOARD_COINS": {
+    "ru": "§fМонеток"
+  },
+  "BOARD_PROFILE": {
+    "ru": "§5§lП§d§lРОФИЛЬ"
+  },
+  "BOARD_STATISTIC": {
+    "ru": "§5§lС§d§lТАТИСТИКА"
+  }
+}
